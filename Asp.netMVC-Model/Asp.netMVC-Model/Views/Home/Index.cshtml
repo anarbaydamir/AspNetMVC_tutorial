@@ -1,0 +1,25 @@
+﻿@using Asp.netMVCModel.Models
+@model HomeIndexViewModels
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @foreach (var project in Model.projects)
+        {
+           @project.projectName
+            <br/>
+        }
+
+        @foreach(var user in Model.users)
+        {
+            @(user.name + " " + user.surname)
+            <br/>
+        }
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{55927DC5-DA6B-428A-8032-AC7AEAD07CCA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspNetMVCProject/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="AspNetMVCProject/App_Start/RouteConfig.cs" Line="1" Column="1" />
+      <File FileName="AspNetMVCProject/Controllers/HomeController.cs" Line="29" Column="10" />
+      <File FileName="AspNetMVCProject/Views/Home/IndexView.cshtml" Line="13" Column="10" />
+      <File FileName="AspNetMVCProject/Global.asax" Line="1" Column="1" />
+      <File FileName="AspNetMVCProject/Web.config" Line="1" Column="1" />
+      <File FileName="AspNetMVCProject/packages.config" Line="1" Column="1" />
+      <File FileName="AspNetMVCProject/Global.asax.cs" Line="1" Column="1" />
+      <File FileName="AspNetMVCProject/Controllers/ViewController.cs" Line="18" Column="39" />
+      <File FileName="AspNetMVCProject/Controllers/RedirectController.cs" Line="18" Column="27" />
+      <File FileName="AspNetMVCProject/Views/View/Index.cshtml" Line="8" Column="17" />
+      <File FileName="AspNetMVCProject/Controllers/ContentController.cs" Line="26" Column="32" />
+      <File FileName="AspNetMVCProject/Controllers/JsonController.cs" Line="23" Column="20" />
+      <File FileName="AspNetMVCProject/Controllers/JavaScriptController.cs" Line="18" Column="50" />
+      <File FileName="AspNetMVCProject/Views/JavaScript/Index.cshtml" Line="9" Column="20" />
+      <File FileName="AspNetMVCProject/Controllers/HTTPController.cs" Line="18" Column="52" />
+      <File FileName="AspNetMVCProject/Controllers/FileController.cs" Line="29" Column="110" />
+      <File FileName="AspNetMVCProject/Controllers/EmptyController.cs" Line="20" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AspNetMVCProject" expanded="True">
+            <Node name="AspNetMVCProject" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="JavaScript" expanded="True" />
+                <Node name="View" expanded="True" />
+              </Node>
+              <Node name="Global.asax" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AspNetMVCProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

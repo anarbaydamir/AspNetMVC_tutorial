@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B6E75369-A52E-44D6-B7D6-4907145675E2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspNetModelBinding/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="AspNetModelBinding/Controllers/HomeController.cs" Line="62" Column="78" />
+      <File FileName="AspNetModelBinding/App_Start/RouteConfig.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AspNetModelBinding" expanded="True">
+            <Node name="AspNetModelBinding" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AspNetModelBinding FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
